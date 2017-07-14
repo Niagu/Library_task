@@ -1,0 +1,5 @@
+.idea
+out
+/TestTask.iml
+/target/*
+/pom.xml
